@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+}
+
+.dg{
+  position: absolute !important;
+  z-index: 10 !important;
+  top: 0;
+  right: 0;
+}
